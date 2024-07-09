@@ -1,0 +1,11 @@
+streamlit==1.33.0
+google-generativeai==0.5.4
+torch==2.3.1
+transformers==4.39.2
+rank-bm25==0.2.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+langchain-google-genai==1.0.3
+langchain_experimental==0.0.62
+pymilvus==2.4.4
+python-dotenv==1.0.1
