@@ -52,7 +52,6 @@ class NvidiaDocsSpider:
 
     def generate_embeddings(self):
 
-        # Initialize Google Generative AI Embeddings
         embeddings = GoogleGenerativeAIEmbeddings(
             model="models/text-embedding-004",
             google_api_key=os.environ['GOOGLE_API_KEY'],

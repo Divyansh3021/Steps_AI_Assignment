@@ -10,6 +10,7 @@ Uncomment these 5 lines if running for the first time.
 # scraper.generate_embeddings()
 # store = Storage()
 # store.store(scraper.chunks)
+# retr = Retriever()
 
 st.title("Steps AI Chatbot")
 
